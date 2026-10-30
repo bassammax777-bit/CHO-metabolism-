@@ -1,0 +1,6 @@
+{
+  "name": "BioMaster - Oraby Biochemistry Exam & Mastery Platform",
+  "description": "Interactive exam and learning platform featuring 100 comprehensive questions on Bioenergetics and Carbohydrate Metabolism with instant correction, key-concept explanations, reward animations, performance analytics, and study modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
